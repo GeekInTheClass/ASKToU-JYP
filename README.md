@@ -8,7 +8,7 @@
  아직 코로나 항체가 안만들어진 철수...
 
 ## 프로토타입
-[첫화면](http://z.ebadaq.com:45085/KWU-2020-07-01/RealWorldPhotos/src/branch/master/Docs/img01.png)
+![첫화면](http://z.ebadaq.com:45085/KWU-2020-07-01/RealWorldPhotos/src/branch/master/Docs/img01.png)
 
 ## 동영상 넣기
 ...
